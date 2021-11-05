@@ -6,7 +6,8 @@ Successfully improved Microsoft Office product suite usage using Double Machine 
 - Implemented DML to resolve inherent confounding issues by finding the causal estimate between product feature usage and Net Promoter Score.
 - Collaborated across office teams to model the impact of app performance duration on customer satisfaction level for multiple office products.
 - Improved SLA and customer satisfaction by analyzing DML causal estimate results.
-- Designed and developed a visualization framework using Python and Azure Web Service to analyze the causal relationship between feature usage, app responsiveness and NPS flux. Removed redundancy of work by partner teams to visualize DML results and enabled teams to prioritize product improvement features with an improved cost-effective time management strategy.
+- Designed and developed a visualization framework using Python and Azure Web Service to analyze the causal relationship between feature usage, app responsiveness and NPS flux. Removed redundancy of work by partner teams to visualize DML results and enabled teams to prioritize product improvement features with an improved cost-effective time management strategy.   
+   
 Used: Python, Dash, Azure Web Service, Cosmos, Databrick, Spark, Scala, PowerShell
 
 ## 2. Comparison of Unsupervised Clustering Algorithms for Market Segmentation via Heterogeneous Data (@Milliman)
