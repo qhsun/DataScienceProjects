@@ -1,7 +1,8 @@
 # DataScienceProjects
 This page is a list of the Data Science projects I have been working on. 
 
-## 1.Double Machine Learning (DML) Application & Visualization (Internship Project @Microsoft)
+## 1.Double Machine Learning (DML) Application & Visualization 
+### Internship Project @Microsoft
 Successfully improved Microsoft Office product suite usage using Double Machine Learning (DML) and reduced internal client COGS by 40% by developing a visualization framework.
 - Implemented DML to resolve inherent confounding issues by finding the causal estimate between product feature usage and Net Promoter Score.
 - Collaborated across office teams to model the impact of app performance duration on customer satisfaction level for multiple office products.
@@ -10,7 +11,8 @@ Successfully improved Microsoft Office product suite usage using Double Machine 
    
 Used: Python, Dash, Azure Web Service, Cosmos, Databrick, Spark, Scala, PowerShell
 
-## 2. Comparison of Unsupervised Clustering Algorithms for Market Segmentation via Heterogeneous Data (Capstone Project @Milliman)
+## 2. Comparison of Unsupervised Clustering Algorithms for Market Segmentation via Heterogeneous Data
+### Current Capstone Project @Milliman
 In this project, we will be applying several unsupervised clustuering algorithms, defined in the [paper](https://www.nature.com/articles/s41598-021-83340-8), to produce market segmentation, identifying or developing metrics to compare the results we obtain such that the product team could possibly create improved personas or validate the set of personas already obtained.
 
 ## 3. Fruits Image Classification Performance Comparison between Local and Azure Databricks
