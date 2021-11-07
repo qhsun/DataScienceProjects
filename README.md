@@ -1,7 +1,6 @@
 # DataScienceProjects
-This page is a list of the Data Science projects I have been working on. 
 
-## 1.Double Machine Learning (DML) Application & Visualization 
+## Double Machine Learning (DML) Application & Visualization 
 ### Internship Project @Microsoft
 ![dml](https://github.com/qhsun/DataScienceProjects/blob/main/images/dml.png?raw=true)  
 
@@ -13,13 +12,13 @@ Successfully improved Microsoft Office product suite usage using Double Machine 
       
 Used: Python, Dash, Azure Web Service, Cosmos, Databrick, Spark, Scala, PowerShell
 
-## 2. Comparison of Unsupervised Clustering Algorithms for Market Segmentation via Heterogeneous Data
+## Comparison of Unsupervised Clustering Algorithms for Market Segmentation via Heterogeneous Data
 ### Current Capstone Project @Milliman
 In this project, we will be applying several unsupervised clustering algorithms, defined in the [research paper](https://www.nature.com/articles/s41598-021-83340-8). The goal of the project is to find the most optimal market segment by comparing the results of the clustering algorithms. A comparison analysis would be performed between the new segmentation and existing market segmentation in Milliman. The evaluated comparison metrics would help Milliman clients to improve or validate the persona of a market segment.   
    
 Used: Python, PySpark, Azure Databricks.  
 
-## 3. Fruits Image Classification Performance Comparison between Local and Azure Databricks
+## Fruits Image Classification Performance Comparison between Local and Azure Databricks
 The project intends to compare the TensorFlow performance on Local machines and Azure Databricks via Python and PySpark. The dataset for Fruit Recognition is obtained from [Kaggle.com] (https://www.kaggle.com/chrisfilo/fruit-recognition), which includes 44,406 fruit images in .png format. The size of this dataset is 8.49GB.   
 
 This project is two-fold:  
@@ -29,7 +28,7 @@ This project is two-fold:
 Used: Python, PySpark, TensorFlow, Azure Databricks
 
 
-## 4. Parking App
+## Parking App
 ![Architecture](https://github.com/qhsun/DataScienceProjects/blob/main/images/parkingarchitecture.png?raw=true)  
 ![MapView](https://github.com/qhsun/DataScienceProjects/blob/main/images/parkingmap.png?raw=true)   
 
@@ -43,7 +42,7 @@ The map is updated with the top 5 recommended streets. For each recommended stre
     
 Used: Python, Dash, Plotly, GitHub, HTML, Heroku, Google Map API.  
 
-## 5. Police Gun Violence Visualization([Viz](https://public.tableau.com/app/profile/qiaohui.sun/viz/PoliceViolenceintheUnitedStates2013-2019_16077210133780/Final_Concept))  
+## Police Gun Violence Visualization([Viz](https://public.tableau.com/app/profile/qiaohui.sun/viz/PoliceViolenceintheUnitedStates2013-2019_16077210133780/Final_Concept))  
 ![viz](https://github.com/qhsun/DataScienceProjects/blob/main/images/gunviolence.png?raw=true)   
 
 The goal of this project was to create a detailed visualization that would enable our users to gain insight into police violence in the United States. We aimed at giving our users a comprehensive understanding of the trend of police killings from 2013 - 2019 and the racial disparity in those killings. The visualization also shed light on the legal statuses of police officers involved in violence against civilians and hoped to spark a conversation on the importance of police reform and creating policy solutions that are aimed at ending police violence in the US.      
@@ -51,7 +50,7 @@ The goal of this project was to create a detailed visualization that would enabl
 Used: Python, Tableau, Pandas and Anaconda   
  
 
-## 6. Gender Disparity in Access to Education
+## Gender Disparity in Access to Education
 ![result](https://github.com/qhsun/DataScienceProjects/blob/main/images/eduresult.png?raw=true)  
 ![map](https://github.com/qhsun/DataScienceProjects/blob/main/images/eduviz.png?raw=true) 
 
