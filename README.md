@@ -14,9 +14,16 @@ Used: Python, Dash, Azure Web Service, Cosmos, Databrick, Spark, Scala, PowerShe
 
 ## Comparison of Unsupervised Clustering Algorithms for Market Segmentation via Heterogeneous Data
 ### Current Capstone Project @Milliman
-In this project, we will be applying several unsupervised clustering algorithms, defined in the [research paper](https://www.nature.com/articles/s41598-021-83340-8). The goal of the project is to find the most optimal market segment by comparing the results of the clustering algorithms. A comparison analysis would be performed between the new segmentation and existing market segmentation in Milliman. The evaluated comparison metrics would help Milliman clients to improve or validate the persona of a market segment.   
+In this project, we will be applying several unsupervised clustering algorithms, defined in the [research paper](https://www.nature.com/articles/s41598-021-83340-8). The goal of the project is to see if we can create unsupervised-learning models that have enhanced efficacy relative to what Milliman has achieved so far. A comparison analysis would be performed between the new segmentations produced by other unsupervised clustering algorithm and existing market segmentations in Milliman produced by K-prototype algorithm. The evaluated comparison metrics would help Milliman clients to improve or validate the persona of a market segment.   
+- Dataset: The full data set comprises 484,260 rows and 686 columns.   
+- Features: Given time constraints, we are making the Milliman feature set the default feature set (30 features produced by Hierarchical Clustering algorithm) for our work. Not only will using this feature set enable us to leverage the extensive feature exploration already done by Milliman, but it will also enable us more easily to evaluate our results relative to those Milliman obtained.   
+- Algorithms: Kamila, Ascendant hierarchical clustering - Gower distance, Latent Class Analysis (LCA), Latent Class Model (LCM), Mixture Modeling    
+- Result Evaluation via 3 approaches:   
+      - Comparison by calculating a classification score using Milliman's cluster labels as the "true" classes.   
+      - Generate a silhouette score for each algorithm.   
+      - Rand Index as a metric for similarity between two sets of clustering labels.   
    
-Used: Python, PySpark, Azure Databricks.  
+Used: R, Python, PySpark, Azure Databricks.  
 
 ## Fruits Image Classification Performance Comparison between Local and Azure Databricks
 The project intends to compare the TensorFlow performance on Local machines and Azure Databricks via Python and PySpark. The dataset for Fruit Recognition is obtained from [Kaggle.com] (https://www.kaggle.com/chrisfilo/fruit-recognition), which includes 44,406 fruit images in .png format. The size of this dataset is 8.49GB.   
